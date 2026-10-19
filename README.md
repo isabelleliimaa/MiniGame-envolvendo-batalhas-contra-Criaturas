@@ -1,5 +1,4 @@
-# MiniGame-envolvendo-batalhas-contra-Criaturas
-Ruby — A Floresta Assombrada
+# Ruby — A Floresta Assombrada
 
 Jogo de aventura e terror desenvolvido em **C#**, utilizando conceitos de **Programação Orientada a Objetos (POO)**. O jogador controla Michael Thomas em uma jornada por locais assombrados, enfrentando criaturas sobrenaturais para encontrar um rubi e libertar a alma de sua amada.
 
